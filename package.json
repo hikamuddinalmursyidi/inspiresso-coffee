@@ -1,0 +1,11 @@
+{
+  "name": "inspiresso-coffee",
+  "version": "1.0.0",
+  "description": "Inspiresso Coffee static website for Vercel deployment",
+  "scripts": {
+    "dev": "npx serve public"
+  },
+  "author": "Inspiresso Coffee",
+  "license": "MIT",
+  "dependencies": {}
+}
